@@ -2,4 +2,4 @@ This is Student Registration System made for OOAD minor internal project. This p
 satyam: backend and frontend integration,
 bishnu: UI/UX using bootstrap, 
 swachchhand: DBA on MySql, 
-Dipesh: QA :D
+Dipesh: QA
